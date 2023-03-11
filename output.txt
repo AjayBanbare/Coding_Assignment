@@ -1,0 +1,30 @@
+output 1:
+
+Enter the number of test cases
+3
+hack
+indiahacks
+YES
+code
+eddy
+NO
+coder
+iamredoc
+YES
+
+output 2:
+
+Enter the number of test cases
+4
+ram
+shyam
+NO
+hack
+shack
+YES
+ajay
+vijay
+NO
+new
+wen  
+YES
